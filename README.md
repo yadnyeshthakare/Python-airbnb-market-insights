@@ -24,7 +24,7 @@ A beginner-to-professional-level data analysis project using **Python (Jupyter N
 ## 🛠️ Tools & Skills Used
 
 - **Python (Jupyter Notebook)**: Data exploration using `pandas`, `matplotlib`, `seaborn`
-- **Excel**:
+- **Excel**
 - **Data Visualization**: Charts to present trends and comparisons
 - **Statistical Analysis**: Correlation and distribution checks
 ---

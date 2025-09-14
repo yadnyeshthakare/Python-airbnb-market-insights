@@ -1,6 +1,6 @@
 # 🏠 Airbnb Data Analysis (Python Project)
 
-A beginner-to-professional-level data analysis project using **Python (Jupyter Notebook)** and **Excel** to explore Airbnb listings data. This project provides actionable insights into pricing strategies, property performance, seasonal trends, and customer preferences.
+A  data analysis project using **Python (Jupyter Notebook)** and **Excel** to explore Airbnb listings data. This project provides actionable insights into pricing strategies, property performance, seasonal trends, and customer preferences.
 
 ---
 
